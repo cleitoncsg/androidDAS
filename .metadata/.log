@@ -154,3 +154,6 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.core.resources 4 368 2014-02-15 11:27:18.049
 !MESSAGE Resource '/teste' does not exist.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2014-02-15 12:09:04.405
+!MESSAGE Failed to load properties file for project 'ListaAlunos'
